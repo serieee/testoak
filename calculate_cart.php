@@ -4,8 +4,8 @@
  * User: ibase
  * Date: 6/2/2560
  * Time: 15:37
- */
 
+sdadasdasdasdasdasd*/
 include ("header.php");
 include ("get_product.php");
 include ("check_login.php");
